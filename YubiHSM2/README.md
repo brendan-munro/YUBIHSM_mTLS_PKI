@@ -114,7 +114,7 @@
     yubihsm> put option $SESS_NUM force_audit 01
     ```
 
-    More details - [YubiHSM2 - PutAuthkey](https://developers.yubico.com/YubiHSM2/Commands/Put_Authkey.html)
+    More details - [YubiHSM2 - PutAuthkey](https://developers.yubico.com/YubiHSM2/Commands/Put_Authentication_Key.html)
 
 3. **Generating the root CA keys**
 
